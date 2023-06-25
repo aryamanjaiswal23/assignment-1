@@ -1,10 +1,1 @@
-SQL
-
-Solution 1
-
-![Data Provided](image.png)
-
-
-![Solution for Case-1](image-1.png)
-
-![Solution for Case-2](image-2.png)
+The screenshots are present in the description of the ticket and the explainations are commented in the files
